@@ -1,3 +1,6 @@
 {
-"status": "offline"
+    "status": "active",
+    "last_updated": "2026-05-25T11:16:33.255105+00:00",
+    "macro_regime": "SAFE_MODE",
+    "whale_alert": false
 }
